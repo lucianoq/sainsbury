@@ -15,4 +15,5 @@ From the root of the project:
 ### Dependencies
 
 I used `github.com/PuerkitoBio/goquery` to parse HTML and navigate through tags.
+
 I used `github.com/stretchr/testify/assert` to improve the tests.
